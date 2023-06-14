@@ -426,7 +426,7 @@ h6 {
 #hero {
   width: 100%;
   height: calc(100vh - 110px);
-  background: url("/assets/img/Apeoesp/casa_do_professor_2.jpg");
+  background: url("../img/Apeoesp/casa_do_professor_2.jpg");
   background-size: cover;
   position: relative;
 }
