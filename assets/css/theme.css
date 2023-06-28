@@ -13,6 +13,7 @@
 
 /* Configurações de cores */
 :root {
+    --bg-azul :             #006697;
     --bg-orange:            #F46A05;
     --bg-orange-hover:      #d85f08;
     --bg-black:             #000000;
