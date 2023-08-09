@@ -1,28 +1,28 @@
 /* Background navbar */
 .bg-orange {
-    color: var(--bg-azul);
-    background-color: var(--bg-azul);
+    color: #006697;
+    background-color: #006697;
 }
 /* Button navbar */
 .bg-orange .container .navbar-brand {
-    color: var(--bg-azul);
+    color: #006697;
+    background-color: #006697;
 }
 .bg-orange .container .navbar-toggler {
-    color: var(--bg-azul);
-    background-color: transparent;
-    border-color: transparent;
-    outline: none;
-    box-shadow: none;
+    color: #006697;
+    background-color: #006697;
 }
 .bg-orange .container .navbar-toggler .navbar-toggler-icon {
-    color: var(--bg-azul);
-    border-color: var(--bg-azul);
+    color: #006697;
+    background-color: #006697;
 }
 .bg-orange .container .navbar-collapse .navbar-nav .nav-item:hover {
-    background-color: var(--bg-azul);
+    color: #006697;
+    background-color: #006697;
 }
 .bg-orange .container .navbar-collapse .navbar-nav .nav-item .nav-link {
-    color: var(--bg-azul);
+    color: #006697;
+    background-color: #006697;
 }
 
 /* .snow */
